@@ -34,9 +34,9 @@ namespace test14
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(293, 67);
+            this.button1.Location = new System.Drawing.Point(180, 89);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(311, 313);
+            this.button1.Size = new System.Drawing.Size(421, 211);
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
